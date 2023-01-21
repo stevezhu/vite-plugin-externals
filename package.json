@@ -29,7 +29,7 @@
     "externals"
   ],
   "types": "index.d.ts",
-  "main": "dist/index.js",
+  "main": "dist/src/index.js",
   "module": "dist/es/index.js",
   "peerDependencies": {
     "vite": ">=2.0.0"
